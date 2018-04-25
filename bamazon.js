@@ -6,10 +6,10 @@ var connection = mysql.createConnection({
 	port: 3306,
 
 	// Your username
-	user: 'guest',
+	user: 'root',
 
 	// Your password
-	password: 'password',
+	password: 'p455w)RD',
 	database: 'bamazon'
 });
 
